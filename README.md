@@ -8,4 +8,4 @@ Dalamud Plugin Repo Maintained by Veever
 # 仓库插件列表：
 | 名称 | 原作者 | 游戏版本 | 描述 | 备注 |
 |------|---------|-----------|------|------|
-| [A Realm Recorded](https://github.com/UnknownX/ARealmRecordedLite) | UnknownX, Veever | 7.35 | A Realm Recorded | 管库ARR 解限 |
+| [A Realm Recorded](https://github.com/UnknownX/ARealmRecordedLite) | UnknownX, Veever | 7.35 | A Realm Recorded | ARR 解限 |
