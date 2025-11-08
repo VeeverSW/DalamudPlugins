@@ -4,7 +4,7 @@ Dalamud Plugin Repo Maintained by Veever
 加速链接 / Link For Chinese Mainland:
 
 ```
-https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/pluginmaster.json
+https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/pluginmaster-cn.json
 ```
 
 原始链接 / Original Link:
