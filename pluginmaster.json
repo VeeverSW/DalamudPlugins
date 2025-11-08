@@ -6,7 +6,7 @@
     "Description": "为副本记录器添加了额外功能，并在副本中自动录制\n在旅馆中使用 /record 指令来打开回放列表\n如果相关指令未解锁，请完成「回顾英雄诗篇」任务",
     "InternalName": "ARealmRecorded",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "9.9.9.9",
+    "AssemblyVersion": "1.0.1.5",
     "Tags": [
       "utility"
     ],
