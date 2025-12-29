@@ -39,7 +39,7 @@
     "IconUrl": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/Hyperborea/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/Hyperborea/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/Hyperborea/latest.zip",
-    "Changelog": "更改内部名防止上游更新不会定向到自己\n"
+    "Changelog": "7.4\n"
   }
 ]
 
