@@ -6,20 +6,20 @@
     "Description": "为副本记录器添加了额外功能，并在副本中自动录制\n在旅馆中使用 /record 指令来打开回放列表\n如果相关指令未解锁，请完成「回顾英雄诗篇」任务",
     "InternalName": "A-Realm-Recorded-Unrestricted",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.0.1.62",
+    "AssemblyVersion": "1.0.2.1",
     "Tags": [
       "utility"
     ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "DownloadCount": 114514415411,
+    "DownloadCount": 114,
     "IconUrl": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/A-Realm-Recorded-Unrestricted/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/A-Realm-Recorded-Unrestricted/latest.zip",
     "DownloadLinkUpdate": "https://github.com/VeeverSW/DalamudPlugins/raw/refs/heads/main/Plugins/A-Realm-Recorded-Unrestricted/latest.zip",
-    "Changelog": "Update Unrestricted mode and translate to CN"
+    "Changelog": "7.4"
   },
   {
     "Author": "kawaii, Veever(汉化+额外功能)",
