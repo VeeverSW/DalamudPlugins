@@ -40,6 +40,28 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/Hyperborea/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/Hyperborea/latest.zip",
     "Changelog": "7.5\n"
-  }
+  },
+  {
+  "Author": "Uiharu,NiGuangOwO,Veever(维护)",
+  "Name": "XTeleportOnline",
+  "InternalName": "Teleport",
+  "AssemblyVersion": "0.0.7.0",
+  "Description": "/tpmain 打开主界面",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "cheat"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
+  "Punchline": "传送",
+  "AcceptsFeedback": false,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/XTeleport/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/XTeleport/latest.zip",
+  "Changelog": "7.5\n"
+ }
 ]
 
