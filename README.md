@@ -17,4 +17,6 @@ https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/pluginmaster.json
 
 | 名称 | 原作者 | 游戏版本 | 描述 | 备注 |
 |------|---------|-----------|------|------|
-|[A-Realm-Recorded-Unrestricted](https://github.com/UnknownX/ARealmRecordedLite)| [UnknownX](https://github.com/UnknownX7) | 7.35 | A Realm Recorded | ARR 解限版 |
+|[A-Realm-Recorded-Unrestricted](https://github.com/UnknownX/ARealmRecordedLite)| [UnknownX](https://github.com/UnknownX7) | 7.5 | A Realm Recorded | ARR 解限版 |
+|[HyperboreaCN]| [kawaii](https://github.com/kawaii) | 7.5 | Hyperborea |  |
+|[XTeleportOnline]| [uiharuayako](https://github.com/uiharuayako) | 7.5 | XTeleportOnline | |
