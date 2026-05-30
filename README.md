@@ -20,3 +20,4 @@ https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/pluginmaster.json
 |[A-Realm-Recorded-Unrestricted](https://github.com/UnknownX/ARealmRecordedLite)| [UnknownX](https://github.com/UnknownX7) | 7.5 | A Realm Recorded | ARR 解限版 |
 |[HyperboreaCN]| [kawaii](https://github.com/kawaii) | 7.5 | Hyperborea |  |
 |[XTeleportOnline]| [uiharuayako](https://github.com/uiharuayako) | 7.5 | XTeleportOnline | |
+|[TooltipNotes]| [Lore] | 7.5 | TooltipNotes | |
