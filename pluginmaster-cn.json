@@ -82,6 +82,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/TooltipNotes/icon.png",
   "DownloadLinkInstall": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/TooltipNotes/latest.zip",
   "DownloadLinkUpdate": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/TooltipNotes/latest.zip",
   "Changelog": "7.5\n"
