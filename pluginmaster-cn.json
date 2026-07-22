@@ -42,50 +42,81 @@
     "Changelog": "7.5\n"
   },
   {
-  "Author": "Uiharu,NiGuangOwO,Veever(维护)",
-  "Name": "XTeleportOnline",
-  "InternalName": "Teleport",
-  "AssemblyVersion": "0.0.7.0",
-  "Description": "/tpmain 打开主界面",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "cheat"
-  ],
-  "DalamudApiLevel": 15,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
-  "Punchline": "传送",
-  "AcceptsFeedback": false,
-  "DownloadLinkInstall": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/XTeleport/latest.zip",
-  "DownloadLinkUpdate": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/XTeleport/latest.zip",
-  "Changelog": "7.5\n"
- },
- {
-  "Author": "Lore, Veever(维护&更新)",
-  "Name": "TooltipNotes",
-  "Punchline": "给物品Tooltip添加自定义备注",
-  "Description": "可以给任意物品的悬浮提示添加自定义备注。支持角色独立、幻化独立、品质独立的备注策略，支持自定义颜色和标签分类管理。",
-  "InternalName": "TooltipNotes",
-  "AssemblyVersion": "2.0.0.0",
-  "ApplicableVersion": "any",
-  "Tags": [
+    "Author": "Uiharu,NiGuangOwO,Veever(维护)",
+    "Name": "XTeleportOnline",
+    "InternalName": "Teleport",
+    "AssemblyVersion": "0.0.7.0",
+    "Description": "/tpmain 打开主界面",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "cheat"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
+    "Punchline": "传送",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/XTeleport/latest.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/XTeleport/latest.zip",
+    "Changelog": "7.5\n"
+  },
+  {
+    "Author": "Lore, Veever(维护&更新)",
+    "Name": "TooltipNotes",
+    "Punchline": "给物品Tooltip添加自定义备注",
+    "Description": "可以给任意物品的悬浮提示添加自定义备注。支持角色独立、幻化独立、品质独立的备注策略，支持自定义颜色和标签分类管理。",
+    "InternalName": "TooltipNotes",
+    "AssemblyVersion": "2.0.0.0",
+    "ApplicableVersion": "any",
+    "Tags": [
       "tooltip",
       "notes",
       "items",
       "ui"
-  ],
-  "DalamudApiLevel": 15,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "IconUrl": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/TooltipNotes/icon.png",
-  "DownloadLinkInstall": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/TooltipNotes/latest.zip",
-  "DownloadLinkUpdate": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/TooltipNotes/latest.zip",
-  "Changelog": "7.5\n"
- }
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/TooltipNotes/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/TooltipNotes/latest.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/TooltipNotes/latest.zip",
+    "Changelog": "7.5\n"
+  },
+  {
+    "Author": "XeldarAlz, Veever (国服适配)",
+    "Name": "Aetherphone",
+    "InternalName": "AetherphoneCN",
+    "AssemblyVersion": "0.9.8.1",
+    "TestingAssemblyVersion": "0.9.8.1",
+    "Description": "An in-game smartphone that puts everything you do into a single window: one device, endless things to do.",
+    "Punchline": "A smartphone, built for you.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/VeeverSW/FFXIV-Aetherphone",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "Tags": [
+      "phone",
+      "aether",
+      "aetherphone",
+      "messages",
+      "social",
+      "ui",
+      "quality of life",
+      "device",
+      "call"
+    ],
+    "IconUrl": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/Aetherphone/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/Aetherphone/latest.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/Aetherphone/latest.zip",
+    "DownloadLinkTesting": "https://gh-proxy.veever.workers.dev/VeeverSW/DalamudPlugins/main/Plugins/Aetherphone/latest.zip"
+  }
 ]
-
