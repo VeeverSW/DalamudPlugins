@@ -21,3 +21,4 @@ https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/pluginmaster.json
 |[HyperboreaCN]| [kawaii](https://github.com/kawaii) | 7.5 | Hyperborea |  |
 |[XTeleportOnline]| [uiharuayako](https://github.com/uiharuayako) | 7.5 | XTeleportOnline | |
 |[TooltipNotes]| [Lore] | 7.5 | TooltipNotes | |
+| [AetherphoneCN] | [XeldarAlz](https://github.com/XeldarAlz) |  7.5  | Aetherphone  |  |
